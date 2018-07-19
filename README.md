@@ -8,5 +8,4 @@
 
 **Bug and issue tracker**  
 If you encountered a bug or have a feature request feel free to [create an issue](https://github.com/ForkIssues/TrackerWin/issues/new).
-ForkIssues
 </div>
